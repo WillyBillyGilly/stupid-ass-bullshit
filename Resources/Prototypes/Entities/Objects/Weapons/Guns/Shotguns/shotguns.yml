@@ -5,11 +5,11 @@
   description: A oversized shotgun. Packs devastating 4 Gauge punches. Developed as port of Pang Tai's elite mercenary package.
   comments:
   - type: Sprite
-    Sprites: Objects\Weapons\Guns\Shotguns\ks23.rsi
+    Sprites: Objects\Weapons\Guns\Shotguns\ks.rsi
   - type: Clothing
-    Sprites: Resources/Textures/Objects/Weapons/ks23worn.rsi
+    Sprites: Resources/Textures/Objects/Weapons/ks.rsi
   - type: Item
-    Sprites: Objects\Weapons\Guns\Shotguns\ks23.rsi
+    Sprites: Objects\Weapons\Guns\Shotguns\ks.rsi
   - type: GunRequiresWield
   - type: Gun
     firerate: 1.5
@@ -24,6 +24,8 @@
     capacity: 4
     proto: ShellShotgun4g
   - type: ItemSlots
+  - type: StaticPrice
+    price: 1000
 
 - type: entity
   name: BaseWeaponShotgun
