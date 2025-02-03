@@ -3,13 +3,13 @@
   parent: [BaseWeaponShotgun, BaseGunWieldable]
   id: WeaponShotgunKS23
   description: A oversized shotgun. Packs devastating 4 Gauge punches. Developed as port of Pang Tai's elite mercenary package.
-  comments:
+  components:
   - type: Sprite
-    Sprites: Objects\Weapons\Guns\Shotguns\ks.rsi
+    Sprites: Objects\Weapons\Guns\Shotguns\ks23.rsi
   - type: Clothing
-    Sprites: Resources/Textures/Objects/Weapons/ks.rsi
+    Sprites: Resources/Textures/Objects/Weapons/ks23worn.rsi
   - type: Item
-    Sprites: Objects\Weapons\Guns\Shotguns\ks.rsi
+    Sprites: Objects\Weapons\Guns\Shotguns\ks23.rsi
   - type: GunRequiresWield
   - type: Gun
     firerate: 1.5
