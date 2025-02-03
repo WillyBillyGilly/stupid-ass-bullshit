@@ -5,11 +5,11 @@
   description: A oversized shotgun. Packs devastating 4 Gauge punches. Developed as port of Pang Tai's elite mercenary package.
   comments:
   - type: Sprite
-    Sprites: Resources/Textures/Objects/Weapons/ks23.rsi
+    Sprites: Resources\Textures\Objects\Weapons\Guns\Shotguns\ks23.rsi
   - type: Clothing
     Sprites: Resources/Textures/Objects/Weapons/ks23worn.rsi
   - type: Item
-    Sprites: Resources/Textures/Objects/Weapons/ks23.rsi
+    Sprites: Resources\Textures\Objects\Weapons\Guns\Shotguns\ks23.rsi
   - type: GunRequiresWield
   - type: Gun
     firerate: 1.5
